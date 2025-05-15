@@ -1,6 +1,7 @@
 # Clone Thread
 
 Clone Thread is a web application built using Node.js, EJS, Bootstrap, MongoDB, and Firebase that allows users to create and interact with threads in a user-friendly interface.
+[![Demo Video](https://img.youtube.com/vi/d7YTOqyRwPw/0.jpg)](https://youtu.be/d7YTOqyRwPw)
 
 ## Features
 
